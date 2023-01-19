@@ -1,0 +1,8 @@
+body{
+    margin: 1rem;
+}
+textarea{
+    display: block;
+    margin: 1rem;
+    width: 600px;
+}
